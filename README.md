@@ -1,4 +1,10 @@
 
+┌─────────────────────────────┐
+│            KARAN            │
+│ Software Developer          │
+│ Java • React • CMS          │
+│ karansharma.me              │
+└─────────────────────────────┘
 <h1 align="center">Hi 👋, I'm Karan Sharma</h1>
 
 <h3 align="center">
