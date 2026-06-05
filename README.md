@@ -1,176 +1,13 @@
 
+<h1 align="center">Hi 👋, I'm Karan Sharma</h1>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Karan%20Sharma&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20CMS%20Developer%20•%20Full%20Stack%20Developer&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Developer+💻;CMS+Developer+🚀;Java+Enthusiast+☕;React+%7C+Next.js+%7C+Node.js;Building+Products+That+Matter+🔥"/>
+<h3 align="center">
+Software Developer • CMS Developer • Full Stack Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=The-Karan&label=Profile+Views&style=for-the-badge&color=8B5CF6"/>
-<img src="https://img.shields.io/github/followers/The-Karan?style=for-the-badge&color=8B5CF6"/>
-<img src="https://img.shields.io/github/stars/The-Karan?style=for-the-badge&color=8B5CF6"/>
-</p>
-
-</div>
-
----
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-# 👨‍💻 About Me
-
-I'm **Karan Sharma**, a Software Developer and CMS Developer passionate about building scalable web applications, modern user experiences, and business-driven digital solutions.
-
-🚀 Software Developer Intern @ Sortiq Solutions
-
-🎓 Computer Science Engineering Student
-
-🌱 Currently learning Spring Boot, Advanced Java & System Design
-
-💡 Interested in Full Stack Development, Product Engineering & Startups
-
-🌐 Portfolio: https://karansharma.me
-
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,sql"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=The-Karan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=The-Karan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Karan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Karan&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=The-Karan&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/The-Karan/The-Karan/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🏅 LeetCode Statistics
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/The-karan-sharma?theme=dark&font=Poppins"/>
-
-</div>
-
----
-
-# 🎵 Currently Listening To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31o7b7h4koe7xpeejv43myv3m56m&cover_image=true&theme=novatorem"/>
-
-</div>
-
----
-
-# 💼 Featured Projects
-
-| Project | Technology | Description |
-|----------|------------|-------------|
-| 🎓 OpenCourse | React | AI-powered learning platform |
-| 🌐 Uni-Tweet | React + MongoDB | University social network |
-| 💼 Talent Sphere | Next.js | Career development platform |
-| 🏫 College Management System | Java | Academic automation platform |
-| 🍎 Apple Vision Pro Clone | JavaScript | Premium frontend clone |
-
----
-
-# ⚡ Core Strengths
-
-```text
-Java                ████████████████████ 90%
-React.js            ██████████████████░░ 85%
-CMS Development     ████████████████████ 92%
-JavaScript          █████████████████░░░ 80%
-Node.js             ██████████████░░░░░░ 70%
-UI/UX Design        ███████████████░░░░░ 75%
-````
-
----
-
-# 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-</div>
-
----
-
-# 🌍 Connect With Me
-
-<div align="center">
-
 <a href="https://karansharma.me">
-<img src="https://img.shields.io/badge/Portfolio-karansharma.me-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/karan9904">
@@ -180,18 +17,125 @@ UI/UX Design        ███████████████░░░░░
 <a href="mailto:karansharma.ab9904@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
 
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=The-Karan&label=Profile+Views&color=8B5CF6&style=flat-square"/>
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## 🚀 Code • Learn • Build • Repeat
+I'm **Karan Sharma**, a Software Developer passionate about building scalable web applications, modern user experiences, and business-focused digital solutions.
 
-### Great software isn't just written — it's crafted.
+- 🚀 Software Developer Intern at Sortiq Solutions
+- 🎓 Computer Science Engineering Student
+- 🌱 Currently learning Spring Boot, Advanced Java & System Design
+- 💡 Interested in Full Stack Development, Product Engineering & Startups
+- 🌐 Portfolio: https://karansharma.me
 
-</div>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+## ⚒️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=The-Karan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Karan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 OpenCourse
+AI-powered personalized learning platform designed to improve accessibility and learning outcomes.
+
+### 🌐 UniTweet
+University-exclusive social networking platform built with React and MongoDB.
+
+### 💼 Talent Sphere
+Career development platform featuring assessments, interview preparation, and growth tracking.
+
+### 🏫 College Management System
+Academic automation platform for attendance, student records, and examinations.
+
+### 🍎 Apple Vision Pro Clone
+Premium frontend clone focused on animations, responsiveness, and modern UI principles.
+
+---
+
+## 🏆 Achievements
+
+- 🏅 Software Developer Intern at Sortiq Solutions
+- 🏅 ServiceNow Certified
+- 🏅 Certified Python Programming Associate
+- 🏅 Event Coordinator & Technical Team Member
+- 🏅 Multiple Client Projects Delivered
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://karansharma.me">
+Portfolio
+</a>
+•
+<a href="https://linkedin.com/in/karan9904">
+LinkedIn
+</a>
+•
+<a href="mailto:karansharma.ab9904@gmail.com">
+Email
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+💜 Building Digital Experiences • Learning Every Day • Shipping Real Products
+
+</p>
 
