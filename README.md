@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Karan%20Sharma&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20•%20CMS%20Developer%20•%20Full%20Stack%20Enthusiast&descAlignY=60"/>
