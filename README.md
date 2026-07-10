@@ -77,16 +77,6 @@ I'm a Software Developer passionate about building scalable applications, solvin
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=The-Karan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Karan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 ## 🚀 Featured Projects
